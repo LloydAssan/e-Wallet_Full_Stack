@@ -1,0 +1,14 @@
+body{
+  background-image: url("img/wallet.jpg");
+  background-size: 100%;
+  padding-top:80px;
+  word-wrap:break-word;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 106px;
+    font-weight: 700;
+    text-shadow: 11px red;
+    text-shadow: 2px 13px #D4BB27;
+}
