@@ -1,6 +1,6 @@
 ## e-Wallet - Personal Statement APP
 
-![alt tag](wallet.jpg)
+![alt tag](wallet2.jpg)
 
 1. Clone repo
 2. run `npm install`
